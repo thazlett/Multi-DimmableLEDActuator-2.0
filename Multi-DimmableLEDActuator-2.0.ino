@@ -21,6 +21,7 @@
  * REVISION HISTORY
  * Version 1.0 - February 15, 2014 - Bruce Lacey
  * Version 1.1 - August 13, 2014 - Converted to 1.4 (hek) 
+ * Version 1.2 - October 10 2016 - Convert to handle multiple LEDs. 
  *
  * DESCRIPTION
  * This sketch provides a Dimmable LED Light using PWM and based Henrik Ekblad 
